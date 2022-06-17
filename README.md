@@ -14,7 +14,7 @@
 
 ### sᴛʀɪɴɢ sᴇssɪᴏɴ
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/Hana_Session_Bot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-black)](https://t.me/Hana_Session_Bot)
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
