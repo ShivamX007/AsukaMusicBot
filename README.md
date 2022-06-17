@@ -5,10 +5,11 @@
 <p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://te.legra.ph/file/3752041b671e0afc6ada2.jpg"></a></p>
 
 
-### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+ <h3 align="center">
+    ─ ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ─
+</h3>
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/AsukaMusicBot)
-
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sumit9969/AsukaMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ### sᴛʀɪɴɢ sᴇssɪᴏɴ
