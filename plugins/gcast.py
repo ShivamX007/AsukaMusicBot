@@ -1,4 +1,4 @@
-# Sumit Yadav // @Simple_Mundaa
+# Shivam Edits // @k7_ShivamEdits
 
 import asyncio
 from pyrogram import Client, filters
